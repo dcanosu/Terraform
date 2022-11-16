@@ -14,7 +14,7 @@ pipeline{
                 sh label: '', script: 'terraform init'
             }
         }
-//        stage('Terraform Apply'){
+        stage('Terraform Apply'){
 //            steps{
 //                sh label: '', script: 'terraform apply --auto-approve'
 //            }
