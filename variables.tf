@@ -6,10 +6,10 @@ variable "region" {
 
 variable "my_access_key" {
     description = "Access-key-for-AWS"
-    default = "no_access_key_value_found"
+    default = "AKIAVEHL4L2G7WQXEA5G"
   }
   
   variable "my_secret_key" {
     description = "Secret-key-for-AWS"
-    default = "no_secret_key_value_found"
+    default = "4KvPcwrXMmg63apP+oKBk2ZA2RrjX21iileivF3V"
   }
